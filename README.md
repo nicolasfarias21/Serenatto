@@ -1,2 +1,2 @@
 # Serenatto
-Landing Page em Bootstrap
+Landing Page com Bootstrap
